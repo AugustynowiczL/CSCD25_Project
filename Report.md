@@ -64,6 +64,7 @@ to be able to determine and visible trends. This will allows us to determine how
 
 
 +1 -1 New sources:
+
 ![Alt text](image-1.png)
 
 At a first glance this the (+2 -2) does not seem alarming. The (+1 -1) does seem interesting, since the data `text_comments.csv` has an overwhelming large amount of (-1) new sources being shared. But through further insepction it does not seem to dramatic because:
@@ -74,15 +75,19 @@ At a first glance this the (+2 -2) does not seem alarming. The (+1 -1) does seem
 Now we need to determine the subreddits contribute most to this polarized new sharing and determine if it is a select few which have deep polarization that suggest an ongoing problem or generally even distribution. To do this we do a similar procedure but instead group by subreddit and sort by the most occurances of (+2 and -2) new sources. We will get the top 10 subreddits for this criteria. 
 
 Reddits for Submissions of (-2) New sources:
+
 ![Alt text](image-2.png) 
 
 Reddits for Comments of (-2) New sources:
+
 ![Alt text](image-3.png)
 
 Reddits for Submissions of (+2) New sources:
+
 ![Alt text](image-4.png)
 
 Reddits for Comments of (+2) New sources:
+
 ![Alt text](image-5.png) 
 
 
