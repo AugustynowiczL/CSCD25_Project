@@ -59,6 +59,7 @@ First we require a column in our dataset that will allow us to group by the year
 to be able to determine and visible trends. This will allows us to determine how prevelant this polarization is and how often these news sources are being shared
 
 +2 -2 New sources:
+
 ![Alt text](image.png)
 
 
