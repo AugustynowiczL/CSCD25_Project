@@ -185,6 +185,7 @@ The last piece of analysis will be looking into temporal analysis of the comment
 
 The words used are: `['migrate', 'move', 'move to', 'moving', 'transfer', 'new website', 'change website']`
 The graph depicts how often these words are used and show the trend over time:
+
 ![Alt text](image-18.png)
 
 This graph depicts good and conclusive evidence that there was a lot of talk about *moving* and/or *migrating* within the subreddit. This coupled with the fact that this activity peaks in 2019 right before the subreddit is deplatformed does not seem like a coincidence, though it is possible that some sort of event occured in 2019 that could have spiked activity of these *migration* words.
